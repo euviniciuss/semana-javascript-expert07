@@ -1,6 +1,6 @@
 # JSExpertMax Gesture Controller - Semana JS Expert 7.0
 
-Seja bem vindo(a) à sétima Semana Javascript Expert. Este é o código inicial para iniciar nossa jornada.
+Seja bem vindo(a) à sétima Semana Javascript Expert. Este é o código inicial para iniciar nossa jornada!
 
 Marque esse projeto com uma estrela 🌟
 
